@@ -1,0 +1,10 @@
+-I learned about boarders on this link: 
+	http://www.w3schools.com/css/css_border.asp
+-I learned about letter spacing on this link:
+	http://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+-I learned about lists and bullets on this link:
+	http://css-tricks.com/almanac/properties/l/list-style/
+-I learned about the <p> tag from this link:
+	http://www.w3schools.com/tags/tag_p.asp
+-I was guided throughout the project by the quality guide provided by Udacity:
+	http://udacity.github.io/frontend-nanodegree-styleguide/

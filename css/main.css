@@ -1,0 +1,70 @@
+/*General styles */
+* {
+	font-family: 'Lucida Grande', sans-serif;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/*Styles for certain classes*/
+
+.shift {
+	margin-top: 20px;
+}
+
+.logo {
+	padding-left: 0;
+	padding-right: 0;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.main-text {
+	color: #666;
+}
+
+.title-text {
+	font-size: 50px;
+}
+
+.orange-subtitle {
+	color: #f07c17;
+	margin-bottom: 30px;
+}
+
+.box {
+    border-style: solid;
+    border-width: 1px;
+    color: #ccc;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+.text-spacing {
+	padding-left: 40px;
+}
+
+.body-font{
+	font-size: 14px;
+	line-height: 210%;
+	padding: 0px;
+	letter-spacing: 1px;
+	color: #666;
+}
+.list-style {
+	list-style-type: disc;
+	margin-left: 40px;
+}
+
+
+
+/*Styles for certain tags*/
+
+p {
+	margin-bottom: 15px;
+}
